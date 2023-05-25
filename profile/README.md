@@ -1,6 +1,6 @@
 # Welcome to hydrop water systems!
 
-![Logo](https://hydrop-systems.com/wp-content/uploads/2021/05/Hydrop-Logo-1536x841.png)
+![Logo](https://hydrop-systems.com/wp-content/uploads/2023/05/Logo_Schriftzug_seitlich.png)
 
 #### We enable you to accurately track and understand the way you use water at home. Reduce your water usage and help conserve our most valuable resource - water!
 
