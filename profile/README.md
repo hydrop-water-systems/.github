@@ -1,4 +1,4 @@
-# Welcome to hydrop water systems!
+# Welcome to hydrop systems!
 
 ![Logo](https://hydrop-systems.com/wp-content/uploads/2023/05/Logo_Schriftzug_seitlich.png)
 
